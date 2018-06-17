@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="google-site-verification" content="62FNB2jLG_p--thaWjc1l1BqoBbNofF5xBJBBCdaDGQ" />
 
-    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/img/e-logo.png" />
     <link rel="canonical" href="/post/hello-world/" />
 
      <meta name="description" content="Selamat datang di blog entropia! Setelah kesekian kali usaha gue mau ngeblog tapi gagal mulu karena usaha dan daya juang yang kurang (alah). Mari kita mulai post pertama dengan tanya jawab saja ya!" /> 
@@ -196,27 +196,36 @@
     
     
 
+
+
 <div id="disqus_thread"></div>
-<script>
+<script type="text/javascript">
 
+(function() {
 
+    
+    if (window.location.hostname == "localhost")
+        return;
 
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'entropia-id';
 
-var disqus_config = function () {
-this.page.url = "\/post\/hello-world\/";  
-this.page.identifier = "\/post\/hello-world\/"; 
-};
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
 
-(function() { 
-var d = document, s = d.createElement('script');
-s.src = 'https://entropia-id.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+
 })();
+
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
+
+
+ 
   </div>
 </main>
 
