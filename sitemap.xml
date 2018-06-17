@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>adisetyop.github.io/post/hello-world/</loc>
+    <loc>/post/hello-world/</loc>
     <lastmod>2018-06-17T05:38:23+07:00</lastmod>
   </url>
   
   <url>
-    <loc>adisetyop.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-06-17T05:38:23+07:00</lastmod>
   </url>
   
   <url>
-    <loc>adisetyop.github.io/</loc>
-    <lastmod>2018-06-17T05:38:23+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>adisetyop.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>adisetyop.github.io/tags/hello-world/</loc>
+    <loc>/</loc>
     <lastmod>2018-06-17T05:38:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>adisetyop.github.io/post/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hello-world/</loc>
     <lastmod>2018-06-17T05:38:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>adisetyop.github.io/tags/random/</loc>
+    <loc>/post/</loc>
     <lastmod>2018-06-17T05:38:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>adisetyop.github.io/categories/random/</loc>
+    <loc>/tags/random/</loc>
     <lastmod>2018-06-17T05:38:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>adisetyop.github.io/tags/</loc>
+    <loc>/categories/random/</loc>
+    <lastmod>2018-06-17T05:38:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2018-06-17T05:38:23+07:00</lastmod>
     <priority>0</priority>
   </url>
